@@ -1,1 +1,3 @@
 LocallyCreatedFile ! We will upload it to github.
+
+Updating the file in GIT localy and then push it to GIT.
